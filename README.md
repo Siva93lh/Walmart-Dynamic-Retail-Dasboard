@@ -36,6 +36,10 @@ for automated data refresh and near real-time reporting.
 AI-Powered Insights: We can use Microsoft and  AI services to automatically generate insights and anomaly detection and then  turning descriptive analytics into prescriptive decision intelligence.
 
 
+<img width="282" height="79" alt="image" src="https://github.com/user-attachments/assets/1c506c46-d647-4cac-9625-d7148ac60a90" />
+
+
+
 
 
 
