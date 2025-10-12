@@ -39,6 +39,10 @@ AI-Powered Insights: We can use Microsoft and  AI services to automatically gene
 <img width="282" height="79" alt="image" src="https://github.com/user-attachments/assets/1c506c46-d647-4cac-9625-d7148ac60a90" />
 
 
+<img width="520" height="300" alt="image" src="https://github.com/user-attachments/assets/75a55148-85b3-4a12-bcc2-d4ecd4c71307" />
+
+
+
 
 
 
